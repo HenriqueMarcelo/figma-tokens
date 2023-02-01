@@ -1,13 +1,17 @@
 /**
  * Do not edit directly
- * Generated on Wed, 01 Feb 2023 12:57:17 GMT
+ * Generated on Wed, 01 Feb 2023 14:34:29 GMT
  */
 
 :root {
+  --sizes-2: 8;
+  --sizes-4: 16;
+  --sizes-8: 32;
   --color-white: #ffffff;
   --color-gray-200: #fafafa;
   --color-gray-500: #71717a;
   --color-gray-800: #27272a;
   --color-gray-900: #18181b;
+  --color-purple-400: #c084fc;
   --color-purple-500: #8b5cf6;
 }
